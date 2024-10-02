@@ -125,8 +125,3 @@ input[type="file"] {
 .inline{
   display: inline; 
 }
-.responsive {
-	width: 100%;
-	max-width: 400px;
-	height: auto;
-}
